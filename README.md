@@ -72,7 +72,7 @@ The `.db` file can be opened with DB Browser for SQLite or any SQLite-compatible
 
 ## Screenshot
 
-![Console demo](screenshots/console-demo.png)
+![Console demo](screenshots/result.png)
 
 ## What I learned
 
